@@ -1,0 +1,5 @@
+Pillow==9.0.1
+pyyaml==5.4.1
+pyglet==1.4.10
+gym==0.17
+numba==0.55.2
